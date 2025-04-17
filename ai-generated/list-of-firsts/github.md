@@ -1,5 +1,7 @@
 # List of Firsts - GitHub
 
+<img src="https://github.com/4uffin/inside-github/blob/main/ai-generated/list-of-firsts/images/GitHub-Logo-3821918866.png?raw=true" height="200" width="auto">
+
 Below is a curated list of “firsts” in GitHub’s history—key inaugural events, features, and milestones that shaped the platform’s evolution.
 
 A quick glance shows that GitHub began as a side project in 2007, formally launched in April 2008 with core features like per‑project wikis and a company blog. Over the next few years it rolled out foundational tools (Gist, Jekyll, Pages), reached its first user and repo milestones, and introduced signature innovations (Compare View, Redcarpet, Hubot). By 2011–2012 it was serving major enterprises and governments, and soon thereafter secured its first large‐scale funding, launched community programs, and opened its first international office—solidifying its place at the center of modern software development.
