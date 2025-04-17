@@ -1,0 +1,101 @@
+# List of Firsts - GitHub
+
+Below is a curated list of “firsts” in GitHub’s history—key inaugural events, features, and milestones that shaped the platform’s evolution.
+
+A quick glance shows that GitHub began as a side project in 2007, formally launched in April 2008 with core features like per‑project wikis and a company blog. Over the next few years it rolled out foundational tools (Gist, Jekyll, Pages), reached its first user and repo milestones, and introduced signature innovations (Compare View, Redcarpet, Hubot). By 2011–2012 it was serving major enterprises and governments, and soon thereafter secured its first large‐scale funding, launched community programs, and opened its first international office—solidifying its place at the center of modern software development.
+
+## Early Precursors and Company Formation
+First public Git hosting platform: repo.or.cz fully launches as the first free Git hosting service on 11 October 2006 
+Wikipedia
+
+GitHub development begins: The GitHub platform’s development (under the codename “Logical Awesome”) starts on 19 October 2007 
+Wikipedia
+
+GitHub founded: GitHub, Inc. is officially founded on 29 February 2008 
+Wikipedia
+
+## Launch and Foundational Features
+Company blog & per‑project wikis: GitHub’s blog and its per‑project wikis go live on 22 February 2008 
+Wikipedia
+
+Public beta launch → Official launch: Tom Preston‑Werner, Chris Wanstrath, and P.J. Hyett launch github.com (after a private beta) on 10 April 2008 
+Wikipedia
+
+First organizational user (Reddit): Reddit joins GitHub on 18 June 2008 
+Wikipedia
+
+First corporate user (Yahoo!): Yahoo! begins hosting code on GitHub on 9 July 2008 
+Wikipedia
+
+## Foundational Product Rollout
+First Gist service: GitHub launches Gist—a pastebin‑style snippet service—on 21 July 2008 
+Wikipedia
+
+First Jekyll release: Initial version of Jekyll (static‑site generator powering GitHub Pages) ships on 5 November 2008 
+Wikipedia
+
+First GitHub Pages: Custom website hosting via GitHub Pages is announced on 18 December 2008 
+Wikipedia
+
+## Community Growth and Early Milestones
+First industry award: GitHub wins “Best Bootstrapped Startup” at The Crunchies on 10 January 2009 
+Wikipedia
+
+First 100 000 users: Platform reaches 100 000 registered users on 5 July 2009 
+Wikipedia
+
+First commit on GitHub: Tom Preston‑Werner makes the initial commit to the Semantic Versioning repository on 14 December 2009 
+Wikipedia
+Wikipedia
+
+## In‑House Innovations
+First Compare View: GitHub introduces its Compare View (side‑by‑side commit diffs) on 10 March 2010 
+Wikipedia
+
+First Git‑backed wiki: Gollum (Git‑powered wiki engine) version 1.0.0 is released on 12 August 2010 
+Wikipedia
+
+First Redcarpet: GitHub ships Redcarpet (its Markdown parser) on 19 April 2011 
+Wikipedia
+
+First Hubot: Hubot (chatbot framework) v1.0.0 debuts on 11 October 2011 
+Wikipedia
+
+## Enterprise and Government Adoption
+First GitHub Enterprise: Enterprise‑grade GitHub (self‑hosted) launches on 1 November 2011 
+Wikipedia
+
+First Google on GitHub: Google officially joins on 17 January 2012 
+Wikipedia
+
+First U.S. agency: The Consumer Financial Protection Bureau announces hosting its code on GitHub on 6 April 2012 
+Wikipedia
+
+First major venture investment: GitHub raises $100 million Series A led by Andreessen Horowitz on 1 July 2012 
+Wikipedia
+
+## Community Programs & Global Expansion
+First Bug Bounty Program: GitHub launches its bug‑bounty program on 9 January 2014 
+Wikipedia
+
+First Atom release: GitHub releases the Atom editor (initial version) on 26 February 2014 
+Wikipedia
+
+First Student Developer Pack: The GitHub Student Developer Pack debuts on 7 October 2014 
+Wikipedia
+
+First office outside the U.S.: GitHub opens its Japan office (GitHub Japan G.K.) on 3 June 2015 
+Wikipedia
+
+### Additional “first” references from non‑Wikipedia sources
+
+Semantic Versioning spec (initial commit to semver): “Semantic Versioning 2.0.0” spec resides at semver.org 
+Wikipedia
+
+Gist announcement: Josh Catone, “GitHub Gist is Pastie on Steroids,” SitePoint, 24 July 2008 
+Wikipedia
+
+Jekyll history: See Jekyll’s official “History” page at jekyllrb.com 
+GeeksforGeeks
+
+> *Compiled from the Wikipedia “Timeline of GitHub” (as of 27 Feb 2025) with supplemental primary‑source references.*
