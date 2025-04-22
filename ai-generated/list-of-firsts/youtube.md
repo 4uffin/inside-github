@@ -1,5 +1,7 @@
 # List of Firsts - YouTube
 
+<img src="https://github.com/4uffin/inside-github/blob/main/ai-generated/list-of-firsts/images/logo-youtube-2005-526664744.png?raw=true" height="200" width="auto">
+
 # Summary
 YouTube’s journey began with the upload of its first video, Me at the zoo, by co-founder Jawed Karim on April 23, 2005, and the earliest known comment by Marco Cassé on June 14, 2005 Wikipedia Wikitubia. In May 2007, YouTube introduced the Partner Program to enable monetization, and its inaugural live-streamed event, YouTube Live, was held from San Francisco and Tokyo on November 22–23, 2008 TechCrunch Wikipedia. Early viewership milestones included CSS’s “Music is My Hot Hot Sex” becoming the first video to hit 100 million views on March 11, 2008, and PSY’s “Gangnam Style” breaking the one billion‑view barrier on December 21, 2012 Wikipedia Guinness World Records. Subscriber milestones soon followed with Fred reaching one million subscribers on April 7, 2009; Smosh ten million on May 25, 2013; PewDiePie fifty million on December 8, 2016; and T‑Series one hundred million on May 29, 2019—and Katy Perry’s “Dark Horse” became the first female‑artist video to exceed one billion views Wikitubia Influencer Marketing Hub.
 
